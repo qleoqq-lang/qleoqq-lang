@@ -19,9 +19,9 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | [**hexapod-rl**](https://github.com/qleoqq-lang/hexapod-rl) | RL-based gait optimization & path planning for hexapod robots using PPO/SAC + MuJoCo | 🚧 In progress |
+| [**hexapod-rl-notes**](https://github.com/qleoqq-lang/hexapod-rl-notes) | RL foundations, reproducible experiments, and notes for the hexapod projects | 🚧 In progress |
 | [**robot-arm-optimization**](https://github.com/qleoqq-lang/robot-arm-optimization) | Trajectory optimization, inverse kinematics, and control for robotic arms | 🚧 In progress |
 | **FiveInARow** | Five-in-a-row game with AI opponent | ✅ Done |
-
 ---
 
 ### 🛠️ Tech Stack
