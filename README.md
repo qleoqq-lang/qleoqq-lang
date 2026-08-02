@@ -39,7 +39,7 @@
 - Estimated a `0.18 m` target's long edge at `0.173 m` on average, about `3.9%` error
 - Recorded failure boundaries openly: close/far depth gaps, projected-angle limits, and `95.6%` false positives with a large similar-color background
 
-[Run the demo](https://github.com/qleoqq-lang/jethexa-rgbd-obstacle-vision/blob/main/run_notes.md) · [Read the ROS interface](https://github.com/qleoqq-lang/jethexa-rgbd-obstacle-vision/blob/main/docs/obstacle_result_interface.md) · [See the reliability report](https://github.com/qleoqq-lang/jethexa-rgbd-obstacle-vision/blob/main/reports/test_results.md)
+[Run the demo](https://github.com/qleoqq-lang/jethexa-rgbd-obstacle-vision/blob/main/run_notes.md) · [Browse the docs](https://github.com/qleoqq-lang/jethexa-rgbd-obstacle-vision/blob/main/docs/README.md) · [Read the ROS interface](https://github.com/qleoqq-lang/jethexa-rgbd-obstacle-vision/blob/main/docs/architecture/obstacle_result_interface.md) · [See the reliability report](https://github.com/qleoqq-lang/jethexa-rgbd-obstacle-vision/blob/main/reports/validation/reliability_test_results.md)
 
 ---
 
